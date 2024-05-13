@@ -1,0 +1,42 @@
+pre {
+    line-height: 1.25rem;
+}
+
+.wy-side-nav-search {
+    display: block;
+    width: 300px;
+    padding: .809em;
+    margin-bottom: .809em;
+    z-index: 200;
+    background-color: #fff;
+    text-align: center;
+    color: #fcfcfc
+}
+
+
+.wy-side-nav-search input[type=text] {
+    background-color: #fff;
+    border-color: #dbdbdb;
+
+}
+wy-side-nav-search .wy-dropdown>a,.wy-side-nav-search>a {
+    color: black;
+}
+
+.wy-nav-top {
+ background-color: #fff;
+ color: black;
+}
+
+.wy-nav-top a {
+    color: black;
+}
+
+.wy-nav-side {
+    background: #1c3858
+}
+
+.wy-side-nav-search .wy-dropdown>a img.logo,.wy-side-nav-search>a img.logo {
+    width: auto;
+    height: 70px;
+}

@@ -1,0 +1,16 @@
+theme:
+  name: readthedocs 
+  logo: ./assets/logo.png
+
+site_name: Prompt Markup Language
+nav:
+  - Home: index.md
+  - Tutorial: tutorial.md
+  - Examples: examples.md
+  - List of Annotations: annotations.md
+  - Sponsors: sponsor.md
+
+extra_css:
+  - style.css
+
+repo_url: https://github.com/narenaryan/promptml/
